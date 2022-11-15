@@ -1,0 +1,41 @@
+body {
+    background-color: rgba(32, 33, 36, 1);
+    color: rgba(248, 249, 250, 0.8);
+    font-family: 'Courier New', Courier, monospace;
+}
+
+img {
+    border-radius: 15px;
+}
+
+.a-home {
+    color: rgba(248, 249, 250, 0.8);
+    text-decoration: none;
+}
+
+.home-li {
+    list-style-type: none;
+}
+
+a:hover {
+    color: rgba(248, 249, 250, 1);
+}
+
+a:active {
+    color: rgba(248, 249, 250, 0.8);
+}
+
+.home-button {
+    font-weight: 700;
+    /*font-family: 'Courier New', Courier, monospace;*/
+    border-radius: 5px;
+}
+
+.home-link {
+    color: rgba(32, 33, 36, 1);
+    text-decoration: none;
+}
+
+.ingredients, .instructions {
+    font-size: 14px;
+}
